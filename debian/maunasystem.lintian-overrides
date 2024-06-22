@@ -1,0 +1,5 @@
+maunasystem: file-in-usr-local usr/local/bin/apt
+maunasystem: file-in-usr-local usr/local/bin/highlight-mauna
+maunasystem: file-in-usr-local usr/local/bin/search
+maunasystem: dir-in-usr-local usr/local/bin/
+maunasystem: package-installs-apt-preferences etc/apt/preferences.d/maunaos.pref

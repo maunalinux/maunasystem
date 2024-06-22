@@ -1,0 +1,8 @@
+Package: *
+Pin: origin apt.maunalinux.top
+Pin-Priority: 750
+
+Package: *
+Pin: release o=mauna,c=upstream
+Pin-Priority: 700
+

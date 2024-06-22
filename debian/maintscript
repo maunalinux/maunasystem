@@ -1,0 +1,4 @@
+rm_conffile /etc/mauna/adjustments/10-maunasystem-synaptic.overwrite 7.9.4~
+rm_conffile /etc/mauna/adjustments/15-maunasystem.menu 8.3.6~
+rm_conffile /etc/mauna/adjustments/15-maunasystem.overwrite 8.3.6~
+rm_conffile /etc/mauna/adjustments/README 8.3.6~
